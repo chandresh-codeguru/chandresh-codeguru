@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeguru-zomentum
+- 👋 Hi, I’m @chandresh-codeguru
 - 👀 Currently i am working on payment and connect portal.
 - 🌱 I would like to work in node js too.
 
